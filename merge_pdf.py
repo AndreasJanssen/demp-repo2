@@ -1,5 +1,7 @@
 # source of this code is https://realpython.com/creating-modifying-pdf/
 
+# a comment added for learning git
+
 from PyPDF2 import PdfWriter
 
 merger = PdfWriter()
